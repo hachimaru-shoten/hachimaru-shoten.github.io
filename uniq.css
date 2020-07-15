@@ -1,11 +1,12 @@
 /* CSS Document */
 /*-------------------------------*/
 div.wrapKOPIPE{
-	border-radius:15px;
 	margin:20px 0;
 	background:#eff5f6;
 	border:5px solid #e5eeef;
-	padding:20px;
+	padding:25px;
+	width: 800px;
+    margin: 25px auto;
 }
 /*-------------------------------*/
 div.wrapHINAGATA h1{
